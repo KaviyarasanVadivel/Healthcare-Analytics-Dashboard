@@ -1,2 +1,3 @@
-# Healthcare-Analytics-Dashboard
-Developed an interactive health analytics dashboard in Power BI, visualizing patient visit trends, billed charges, and key performance metrics. Utilized Power Query for data transformation and SQL for efficient data extraction, enabling actionable insights and data-driven decision-making through dynamic charts and visualizations
+# Healthcare-Analytics-Dashboard (Developed dynamic and interactive dashboards using Power BI)
+## Project Objective
+Create a healthcare dashboard in Power BI to analyze patient visit numbers and billed charges, featuring multiple interactive charts. The dataset spans from 2018 to 2023 and is sourced from Excel, providing a comprehensive view of trends and insights over the years
