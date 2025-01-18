@@ -6,10 +6,10 @@ Create a healthcare dashboard in Power BI to analyze patient visit numbers and b
 - <a href = "https://github.com/KaviyarasanVadivel/Healthcare-Analytics-Dashboard/blob/main/Data%20Set%20for%20Healthcare%20Dashboard.xlsx">Dataset</a>
 
 ## Process
-> Imported data from Excel for analysis and visualization.
-> Transformed and cleaned the dataset using Power Query Editor for accuracy.
-> Loaded the prepared dataset into Power BI Report View for dashboard creation.
-> Designed interactive charts to enhance visual appeal and data comprehension.
+ Imported data from Excel for analysis and visualization.
+ Transformed and cleaned the dataset using Power Query Editor for accuracy.
+ Loaded the prepared dataset into Power BI Report View for dashboard creation.
+ Designed interactive charts to enhance visual appeal and data comprehension.
 
 ## Dashboard
 - <a href = "https://github.com/KaviyarasanVadivel/Healthcare-Analytics-Dashboard/blob/main/Healthcare%20Dashboard.pdf">View Dashboard</a>
