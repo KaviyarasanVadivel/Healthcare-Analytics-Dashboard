@@ -6,4 +6,4 @@ Create a healthcare dashboard in Power BI to analyze patient visit numbers and b
 - <a href = "https://github.com/KaviyarasanVadivel/Healthcare-Analytics-Dashboard/blob/main/Data%20Set%20for%20Healthcare%20Dashboard.xlsx">Dataset</a>
 
 ## Dashboard
-- <a href = "https://github.com/KaviyarasanVadivel/Healthcare-Analytics-Dashboard/blob/main/Data%20Set%20for%20Healthcare%20Dashboard.xlsx](https://github.com/KaviyarasanVadivel/Healthcare-Analytics-Dashboard/blob/main/Healthcare%20Dashboard.pdf">View Dashboard</a>
+- <a href = "https://github.com/KaviyarasanVadivel/Healthcare-Analytics-Dashboard/blob/main/Healthcare%20Dashboard.pdf">View Dashboard</a>
